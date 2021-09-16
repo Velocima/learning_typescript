@@ -4,6 +4,7 @@
 	"description": "A sandbox project for learning typescript",
 	"main": "app.js",
 	"scripts": {
+		"dev": "tsc",
 		"start": "node app.js"
 	},
 	"repository": {
