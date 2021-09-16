@@ -1,0 +1,7 @@
+{
+	"compilerOptions": {
+		"target": "esnext", // With this line, we can select the version of JS
+		"watch": true, // With this line, we can just run tsc and it will watch the folder in real time
+		"lib": ["dom", "es2020"] // The last line gives us access to dom definition and, additional APIS in ES2020
+	}
+}
