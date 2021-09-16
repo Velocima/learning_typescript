@@ -1,0 +1,23 @@
+{
+  "name": "learning_typescript",
+  "version": "1.0.0",
+  "description": "A sandbox project for learning typescript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Velocima/learning_typescript.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Velocima/learning_typescript/issues"
+  },
+  "homepage": "https://github.com/Velocima/learning_typescript#readme",
+  "devDependencies": {
+    "typescript": "^4.4.3"
+  }
+}
